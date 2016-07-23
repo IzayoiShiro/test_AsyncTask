@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test_AsyncTask</string>
+    <string name="asynctask">点击执行AsyncTask方法</string>
+</resources>
